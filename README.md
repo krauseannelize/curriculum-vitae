@@ -16,9 +16,10 @@ A summary of my professional experience - *work in progress*
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
+| Crash Course on Python | 2024-10 | Coursera | [cert](https://coursera.org/verify/JSJO5X8PS564) | [pdf](/Certificates/202410-coursera-crash-course-on-python.pdf) |
 | Introduction to Python | 2024-10 | Datacamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/c120b06506d2af372eadcbbf6f0b37f3c6f9e4db) | [pdf](/Certificates/202410-datacamp-introduction-to-python.pdf) |
 | Introduction to Git | 2024-09 | Datacamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/2838e902b9ef7c655b2c491f5740cc635d21efe6) | [pdf](/Certificates/202409-datacamp-introduction-to-git.pdf) |
-| Tools of the Trade: Linux and SQL | 2024-08 | Coursera | [cert](https://coursera.org/verify/R62WO8Q9L0LC) | [pdf]() |
+| Tools of the Trade: Linux and SQL | 2024-08 | Coursera | [cert](https://coursera.org/verify/R62WO8Q9L0LC) | [pdf](/Certificates/202408-coursera-tools-trade-linux-sql.pdf) |
 | Google Data Analytics Capstone: Complete a Case Study | 2024-08 | Coursera | [cert](https://coursera.org/verify/56V0YVM35334) | [pdf](/Certificates/202408-coursera-google-data-analytics-capstone.pdf) |
 | Data Analysis with R Programming | 2024-08 | Coursera | [cert](https://coursera.org/verify/IDPF6JIAIM2M) | [pdf](/Certificates/202408-coursera-data-analysis-r-programming.pdf) |
 | Share Data Through the Art of Visualization | 2024-07 | Coursera | [cert](https://coursera.org/verify/7VVS5CDKNGMN) | [pdf](/Certificates/202407-coursera-share-data-through-visualization.pdf) |
