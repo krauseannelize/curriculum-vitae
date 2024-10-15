@@ -16,7 +16,7 @@ A summary of my professional experience - *work in progress*
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
-| Introduction to SQL | 2024-10 | Datacamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/d6b8ae018f5734d81e2f6cca814ca97c543609a9) | [pdf](Certificates/202420-datacamp-introduction-to-sql.pdf) |
+| Introduction to SQL | 2024-10 | Datacamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/d6b8ae018f5734d81e2f6cca814ca97c543609a9) | [pdf](Certificates/202410-datacamp-introduction-to-sql.pdf) |
 | Crash Course on Python | 2024-10 | Coursera | [cert](https://coursera.org/verify/JSJO5X8PS564) | [pdf](/Certificates/202410-coursera-crash-course-on-python.pdf) |
 | Introduction to Python | 2024-10 | Datacamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/c120b06506d2af372eadcbbf6f0b37f3c6f9e4db) | [pdf](/Certificates/202410-datacamp-introduction-to-python.pdf) |
 | Introduction to Git | 2024-09 | Datacamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/2838e902b9ef7c655b2c491f5740cc635d21efe6) | [pdf](/Certificates/202409-datacamp-introduction-to-git.pdf) |
