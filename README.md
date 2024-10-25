@@ -16,6 +16,7 @@ A summary of my professional experience - *work in progress*
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
+| Joining Data in SQL | 2024-10 | Datacamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/9eced2c7763c226590ce5d914446d7234c1ba78e?raw=1) | [pdf](/Certificates/202410-datacamp-joining-data-in-sql.pdf) |
 | Intermediate SQL | 2024-10 | Datacamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/e2d4aa0483821797ca9aacbfc2b815967b665b69) | [pdf](/Certificates/202410-datacamp-intermediate-sql.pdf) |
 | Introduction to SQL | 2024-10 | Datacamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/d6b8ae018f5734d81e2f6cca814ca97c543609a9) | [pdf](Certificates/202410-datacamp-introduction-to-sql.pdf) |
 | Crash Course on Python | 2024-10 | Coursera | [cert](https://coursera.org/verify/JSJO5X8PS564) | [pdf](/Certificates/202410-coursera-crash-course-on-python.pdf) |
