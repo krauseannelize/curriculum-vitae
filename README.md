@@ -1,6 +1,89 @@
-# Curriculum Vitae
+# Curriculum Vitae | Annelize Krause
 
-A summary of my professional experience - *work in progress*
+*a work in progress*
+
+1. [About me](#about-me)
+2. [Testimonials](#testimonials)
+3. [Professional Experience](#professional-experience)
+4. [Professional Development](#professional-development)
+5. [Resume](#resume)
+
+## About me
+
+I'm a tenacious problem solver with a tech-oriented approach, and have recently decided to re-enter the workforce after taking some time off. Since I first laid eyes on a spreadsheet in 1997, I have been in love and I want to follow my passion by transitioning into a career as a data analyst to tell the stories data holds.
+
+What sets me apart is my analytical thinking, attention to detail, self-motivation, and my drive for process optimization and efficiency. I am committed to making impactful improvements within companies, from cleaner data for better reporting to streamlined business processes and enhanced customer communications.
+
+---
+
+## Testimonials
+
+>*“In her two years with our ecommerce company, Annelize Krause has made significant contributions that have permanently improved the way our company runs. While it is difficult to find team members who are proficient both operationally and strategically, Annelize has proven that she is skilled at both. She easily tackles operational tasks and simultaneously drives change on a higher level. A tenacious problem solver with a technology-oriented approach, she is highly competent, independent, and detail-oriented, and innovates better ways to perform tasks almost as quickly as she learns them. Over her time with BigSpool, her role continuously expanded as she took on additional responsibilities.”*
+
+— Hao Jiang, CEO, Bigspool Inc. [(click here for full recommendation)](/Other/Bigspool-Recommendation.pdf)
+
+![Tilburg University Review](/Other/2017-review-tilburg.png 'Tilburg University Review')
+
+—  Prof. Dr. Rik Frehen, Department Finance, Tilburg University
+
+![COAC Review](/Other/2017-review-coac.png 'COAC Review')
+
+— Dr. Kim Adie, DC, Vice-President, College of Animal Chiropractors
+
+---
+
+## Professional Experience
+
+### Business Operations Manager, 2013 to 2019
+
+Since 2015, all work was performed remotely and the timelines of the various projects overlap so for brevity, I list a few highlights from this period.
+
+#### Bigspool Inc., USA
+
+This started as a small project on Upwork and very quickly developed into a full-time role with my "if I don't know, I will find out'-attitude. My role grew exponentially and responsibilities along with it. The CEO Hao Jiang wrote this [recommendation](/Other/Bigspool-Recommendation.pdf) for my time with Bigspool.
+
+- **Oversee** 7 marketplaces and 5 consumer brands attending to customer support and bi-weekly inventory fulfillment and restocking orders for over 30,000 units and $250,000
+_ **Reduce operational costs** by creating integrated forecasting reports from an inventory database I built enabling effective inventory management and cutting down costs of monthly paid subscription services
+- **Product development** coordinated for over 50 product line launches and helped bring over 50,000 new product SKUs to market
+- **Business continuity** improved by creating a centralized knowledge centre in Notion across multiple business divisions
+
+#### Tilburg University, Netherlands
+
+This was a large financial project to capture historical stock ledgers and particularly tickled the puzzle-solving part of my brain. I am extremely proud of what I have accomplished here and, with permission, can showcase a [summary of my work](/Other/Project-Tilburg-University.pdf). The main highlights:
+
+- **Capture, prepare and clean data** in order to digitize historical stock ledgers and to create a standardized database with unique trader and transaction identifiers
+- **Research and solve problems** such as currency conversion, accounting for the change from the Julian calendar to the Gregorian calendar, consolidating duplicate accounts, interpreting weathered and damaged pages written in ink.
+
+#### College of Animal Chiropractors & Veterinary Chiropractic Learning Centre, Canada & USA
+
+- **Technical, administrative and customer support** to introduce Google Suite for membership management, updating learning material and website information, recording new members and membership fees
+- **Maintain database** ensuring members records are consistent and up to date
+
+#### ENSafrica, South Africa
+
+- **Improve security and reporting** by taking initiative to build an access-card database from scratch by coordinating with team members across different locations
+- **Leveraged automation to reduce manual effort** of a labour and time intensive administrative task assigning expenses by preparing the data to apply effective filtering
+- **Technical and administrative support** to personnel to maintain efficiency and ensuring compliance with company policies
+- **Maintain database** ensuring personnel records are consistent and up to date
+
+### Legal Assistant, 2001 to 2013
+
+- **Multi-million Rand business contract** secured by my coordination of team contributions to compile a due diligence report in a new, creative and visually-appealing format I designed for a globally operating company
+- **Maintain confidentiality** in handling sensitive information when preparing legal documents
+- **Ensure document governance** by keeping record of changes to ensure transparency and successful collaboration between contributors
+- **Act as a liaison** between legal professionals and clients with effective, professional communication and clear, concise writing skills
+- **Effective time-management** in managing schedules and prioritizing tasks to maintain efficient operations and facilitate smooth workflows
+
+| Employer | Location | Start | End |
+| --- | --- | --- | --- |
+| ENSafrica | Sandton | 2012-07 | 2013-07 |
+| University of Pretoria | Pretoria | 2011-04 | 2012-06 |
+| Eversheds | Sandton | 2006-04 | 2010-01 |
+| Swart, Redelinghuys, Nel & Partners | Krugersdorp | 2003-03 | 2006-03 |
+| Heidtmann & Du Preez | Randfontein | 2002-09 | 2003-02 |
+| Van Deventer & Van Niekerk | Randfontein | 2001-09 | 2002-08 |
+
+---
 
 ## Professional Development
 
@@ -35,3 +118,11 @@ A summary of my professional experience - *work in progress*
 | The Complete SQL Bootcamp: Go from Zero to Hero | 2024-04 | Udemy | [cert](https://www.udemy.com/certificate/UC-1f5f3aa7-99b9-4cdc-a415-6b62d3738405/) | [pdf](/Certificates/202404-udemy-complete-sql-bootcamp.pdf) |
 | Excel Essentials for the Real World (Complete Excel Course) | 2024-03 | Udemy | [cert](https://www.udemy.com/certificate/UC-524366e0-a0a6-472e-be51-bff2ca82101e/) | [pdf](/Certificates/202403-udemy-excel-essentials-real-world.pdf) |
 | The Complete Salesforce Certified Associate Course | 2024-02 | Udemy | [cert](https://www.udemy.com/certificate/UC-32d1dc3d-478e-46f9-ab0c-6981a7acccc9/) | [pdf](/Certificates/202402-udemy-salesforce-certified-associate.pdf) |
+
+---
+
+## Resume
+
+My latest resume can be downloaded in [English](/Other/resume-2024-EN.pdf).
+
+---
