@@ -68,7 +68,7 @@ This was a large financial project to capture historical stock ledgers and parti
 
 ### Legal Assistant, 2001 to 2013
 
-- **Multi-million Rand business contract** secured by my coordination of team contributions to compile a due diligence report in a new, creative and visually-appealing format I designed for a globally operating company
+- **Secure $1 million business contract** by designing an innovative due diligence report, transforming the company's standard template with a custom-branded theme, curated artwork, and a visually striking layout for a globally operating company
 - **Maintain confidentiality** in handling sensitive information when preparing legal documents
 - **Ensure document governance** by keeping record of changes to ensure transparency and successful collaboration between contributors
 - **Act as a liaison** between legal professionals and clients with effective, professional communication and clear, concise writing skills
