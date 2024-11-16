@@ -61,7 +61,7 @@ This was a large financial project to capture historical stock ledgers and parti
 
 #### ENSafrica, South Africa
 
-- **Improve security and reporting** by taking initiative to build an access-card database from scratch by coordinating with team members across different locations
+- **Enhanced security and streamlined reporting** by creating a centralized access-card database from scratch, resolving inefficiencies in tracking and improving coordination across multiple locations
 - **Leveraged automation to reduce manual effort** of a labour and time intensive administrative task assigning expenses by preparing the data to apply effective filtering
 - **Technical and administrative support** to personnel to maintain efficiency and ensuring compliance with company policies
 - **Maintain database** ensuring personnel records are consistent and up to date
