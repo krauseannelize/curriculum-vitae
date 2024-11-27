@@ -16,7 +16,11 @@ A summary of my professional experience - *work in progress*
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
-| Joining Data in SQL | 2024-10 | Datacamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/9eced2c7763c226590ce5d914446d7234c1ba78e?raw=1) | [pdf](/Certificates/202410-datacamp-joining-data-in-sql.pdf) |
+| Pivot Tables in Google Sheets | 2024-11 | Datacamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/73de231038038ad9c42fb284da24cba6e34bde9a) | [pdf](/Certificates/202411-datacamp-pivot-tables-in-google-sheets.pdf) |
+| Intermediate Google Sheets | 2024-11 | Datacamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/24339a08c4f385e6f4daede8c5841745394758b2) | [pdf](/Certificates/202411-datacamp-intermediate-google-sheets.pdf) |
+| Data Analysis in Google Sheets | 2024-11 | Datacamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/651ce8ac07a60989c40c7d4480ce085b129619aa) | [pdf](/Certificates/202411-datacamp-data-analysis-google-sheets.pdf) |
+| Introduction to Google Sheets | 2024-11 | Datacamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/d46d653edbd869ad319798781119f8bfa874eedf) | [pdf](/Certificates/202411-datacamp-intro-google-sheets.pdf) |
+| Joining Data in SQL | 2024-10 | Datacamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/9eced2c7763c226590ce5d914446d7234c1ba78e) | [pdf](/Certificates/202410-datacamp-joining-data-in-sql.pdf) |
 | Intermediate SQL | 2024-10 | Datacamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/e2d4aa0483821797ca9aacbfc2b815967b665b69) | [pdf](/Certificates/202410-datacamp-intermediate-sql.pdf) |
 | Introduction to SQL | 2024-10 | Datacamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/d6b8ae018f5734d81e2f6cca814ca97c543609a9) | [pdf](Certificates/202410-datacamp-introduction-to-sql.pdf) |
 | Crash Course on Python | 2024-10 | Coursera | [cert](https://coursera.org/verify/JSJO5X8PS564) | [pdf](/Certificates/202410-coursera-crash-course-on-python.pdf) |
