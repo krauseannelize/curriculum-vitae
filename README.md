@@ -16,6 +16,8 @@ A summary of my professional experience - *work in progress*
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
+| Skill Track: Google Sheets Fundamentals | 2024-11 | Datacamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/track/d3aeab44c5b27744247df5dde1ad58acd209c5ac) | [pdf](/Certificates/202411-datacamp-skill-google-sheets-fundamentals.pdf) |
+| Data Visualization in Google Sheets | 2024-11 | Datacamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/9aa4113d45ec5883ed00b4c920f04e187a01eac5) | [pdf](/Certificates/202411-datacamp-data-visualization-in-google-sheets.pdf) |
 | Pivot Tables in Google Sheets | 2024-11 | Datacamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/73de231038038ad9c42fb284da24cba6e34bde9a) | [pdf](/Certificates/202411-datacamp-pivot-tables-in-google-sheets.pdf) |
 | Intermediate Google Sheets | 2024-11 | Datacamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/24339a08c4f385e6f4daede8c5841745394758b2) | [pdf](/Certificates/202411-datacamp-intermediate-google-sheets.pdf) |
 | Data Analysis in Google Sheets | 2024-11 | Datacamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/651ce8ac07a60989c40c7d4480ce085b129619aa) | [pdf](/Certificates/202411-datacamp-data-analysis-google-sheets.pdf) |
