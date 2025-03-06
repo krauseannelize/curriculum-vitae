@@ -1,18 +1,14 @@
 # Curriculum Vitae | Annelize Krause
 
-*a work in progress*
-
-1. [About me](#about-me)
+1. [Career Summary](#career-summary)
 2. [Testimonials](#testimonials)
 3. [Professional Experience](#professional-experience)
 4. [Professional Development](#professional-development)
 5. [Resume](#resume)
 
-## About me
+## Career Summary
 
-I'm a tenacious problem solver with a tech-oriented approach, and have recently decided to re-enter the workforce after taking some time off. Since I first laid eyes on a spreadsheet in 1997, I have been in love and I want to follow my passion by transitioning into a career as a data analyst to tell the stories data holds.
-
-What sets me apart is my analytical thinking, attention to detail, self-motivation, and my drive for process optimization and efficiency. I am committed to making impactful improvements within companies, from cleaner data for better reporting to streamlined business processes and enhanced customer communications.
+With over 20 years of experience in administrative support, data management and operations coordination, I have successfully transitioned to specialized roles in database management, process automation and data analytics, continuously improving efficiency and accuracy. As a freelance operations and data specialist, I have delivered customized solutions for international clients. I am now pursuing a career in data analytics, leveraging my technical expertise, problem-solving skills and commitment to continuous learning.
 
 ---
 
@@ -32,55 +28,56 @@ What sets me apart is my analytical thinking, attention to detail, self-motivati
 
 ---
 
-## Professional Experience
+### 2015-11 to 2019-01 | Freelance Operations and Data Specialist
+- Provided remote operations and data management support to international clients in various industries including academia, e-commerce, and professional associations.
+Manage and optimize databases, streamline workflows, and automate processes to improve efficiency and accuracy.
+- Perform data analysis and reports and create customized solutions to meet client needs, such as inventory forecasting and knowledge management.
+- Lead project management for product development and operational initiatives, coordinating cross-functional teams to meet deadlines and achieve goals.
+- Provide administrative and technical support, including document editing, transcription, and social media management, to ensure high-quality results for clients.
 
-### Business Operations Manager, 2013 to 2019
+Important projects/customers:
+#### BigSpool Inc. (2017-02 to 2019-01)
+This started as a small project on Upwork and very quickly developed into a full-time role with my "if I don't know, I will find out'-attitude. My role grew exponentially and responsibilities along with it. The CEO Hao Jiang wrote this [recommendation](/Other/Bigspool-Recommendation.pdf) for my time with Bigspool. These are some of my achievements:
+- Consolidated customer service operations across 7 marketplaces and 5 brands, reducing response times and costs through reusable templates and improved workflows.
+- Developed an Access database for inventory management, replacing a paid service and saving monthly subscription costs while improving forecast accuracy.
+- Managed 50+ product launches and coordinated cross-functional teams to bring 50,000+ SKUs to market on time.
+- Created a centralized knowledge management system using Notion, organized SOPs, and improved onboarding and operational consistency.
+#### Tilburg University (2015-11 to 2017-01)
+This was a large financial project in two parts to capture historical stock ledgers and particularly tickled the puzzle-solving part of my brain. I am extremely proud of what I have accomplished here and, with permission, can showcase a summary of my work for [Part 1](/Other/project-tilburg-historical-data-p1.pdf)and [Part 2](/Other/project-tilburg-historical-data-p2.pdf). Highlights of my achievements are:
+- Collected and analyzed historical financial data from 18th century share ledgers and converted handwritten records into a modern, user-friendly format for analysis.
+- Identified and resolved discrepancies in merchant records, assigned unique identifiers and standardized data for over 60,000 transactions and 10,000 merchants.
+- Developed innovative solutions to handle Julian calendar dates, LSD currency conversion to decimal, and complex consortium relationships, enabling accurate historical analysis.
+#### Kim Adie (College of Animal Chiropractors) (2015-12 to 2019-01)
+- Revised and managed the member database to ensure consistency and accuracy for over 500 members.
+- Monitored and responded to member inquiries, updated the website and created engaging social media content to increase engagement.
+- Migrated organizational materials to Google Suite, redesigned learning materials and streamlined cross-country collaboration.
+### Various smaller projects (2015-11 to 2019-01)
+Provided administrative support, including text entry, document editing and transcription, to ensure high quality results for clients.
 
-Since 2015, all work was performed remotely and the timelines of the various projects overlap so for brevity, I list a few highlights from this period.
 
-#### Bigspool Inc., USA
+---
 
-This started as a small project on Upwork and very quickly developed into a full-time role with my "if I don't know, I will find out'-attitude. My role grew exponentially and responsibilities along with it. The CEO Hao Jiang wrote this [recommendation](/Other/Bigspool-Recommendation.pdf) for my time with Bigspool.
+### 2013-08 to 2015-09 | Helpdesk Assistant
+ENSafrica, Cape Town, South Africa
+- Provided help desk support by handling internal inquiries, directing employees to appropriate departments, and providing efficient solutions to technical and administrative issues.
+- Managed and updated databases to ensure accurate and up-to-date records for smooth internal operations.
+- Designed and maintained a custom database to track access cards, coordinating with team members in different offices to monitor lost, stolen, and available cards.
+- Automated a labor-intensive administrative process by developing a system to transfer marketing spend to the correct accounts, reducing manual effort and improving accuracy.
+- Used data organization and problem-solving skills to streamline workflows and increase operational efficiency.
 
-- **Oversee** 7 marketplaces and 5 consumer brands attending to customer support and bi-weekly inventory fulfillment and restocking orders for over 30,000 units and $250,000
-_ **Reduce operational costs** by creating integrated forecasting reports from an inventory database I built enabling effective inventory management and cutting down costs of monthly paid subscription services
-- **Product development** coordinated for over 50 product line launches and helped bring over 50,000 new product SKUs to market
-- **Business continuity** improved by creating a centralized knowledge centre in Notion across multiple business divisions
+---
 
-#### Tilburg University, Netherlands
+### 2001-09 to 2013-07 | Secretary
 
-This was a large financial project to capture historical stock ledgers and particularly tickled the puzzle-solving part of my brain. I am extremely proud of what I have accomplished here and, with permission, can showcase a [summary of my work](/Other/Project-Tilburg-University.pdf). The main highlights:
-
-- **Capture, prepare and clean data** in order to digitize historical stock ledgers and to create a standardized database with unique trader and transaction identifiers
-- **Research and solve problems** such as currency conversion, accounting for the change from the Julian calendar to the Gregorian calendar, consolidating duplicate accounts, interpreting weathered and damaged pages written in ink.
-
-#### College of Animal Chiropractors & Veterinary Chiropractic Learning Centre, Canada & USA
-
-- **Technical, administrative and customer support** to introduce Google Suite for membership management, updating learning material and website information, recording new members and membership fees
-- **Maintain database** ensuring members records are consistent and up to date
-
-#### ENSafrica, South Africa
-
-- **Enhanced security and streamlined reporting** by creating a centralized access-card database from scratch, resolving inefficiencies in tracking and improving coordination across multiple locations
-- **Leveraged automation to reduce manual effort** of a labour and time intensive administrative task assigning expenses by preparing the data to apply effective filtering
-- **Technical and administrative support** to personnel to maintain efficiency and ensuring compliance with company policies
-- **Maintain database** ensuring personnel records are consistent and up to date
-
-### Legal Assistant, 2001 to 2013
-
-- **Secure $1 million business contract** by designing an innovative due diligence report, transforming the company's standard template with a custom-branded theme, curated artwork, and a visually striking layout for a globally operating company
-- **Maintain confidentiality** in handling sensitive information when preparing legal documents
-- **Ensure document governance** by keeping record of changes to ensure transparency and successful collaboration between contributors
-- **Act as a liaison** between legal professionals and clients with effective, professional communication and clear, concise writing skills
-- **Effective time-management** in managing schedules and prioritizing tasks to maintain efficient operations and facilitate smooth workflows
+Provided comprehensive administrative support including managing appointment calendars, preparing documents, and maintaining filing systems. Handled client communications, answered calls, and coordinated appointments to ensure smooth office operations. Handled monthly client billing and collection of arrears.
 
 | Employer | Location | Start | End |
 | --- | --- | --- | --- |
-| ENSafrica | Sandton | 2012-07 | 2013-07 |
-| University of Pretoria | Pretoria | 2011-04 | 2012-06 |
-| Eversheds | Sandton | 2006-04 | 2010-01 |
-| Swart, Redelinghuys, Nel & Partners | Krugersdorp | 2003-03 | 2006-03 |
-| Heidtmann & Du Preez | Randfontein | 2002-09 | 2003-02 |
+| ENSafrica | Sandton, South Africa | 2012-07 | 2013-07 |
+| Prof. Nic Olivier, University of Pretoria | Pretoria, South Africa | 2011-04 | 2012-06 |
+| Eversheds (formerly Routledge Modise Attorneys) | Sandton, South Africa | 2006-04 | 2010-01 |
+| Swart, Redelinghuys, Nel & Partners | Krugersdorp | 2003-02 | 2006-03 |
+| Heidtmann & Du Preez Attorneys | Randfontein | 2002-09 | 2003-02 |
 | Van Deventer & Van Niekerk | Randfontein | 2001-09 | 2002-08 |
 
 ---
@@ -99,6 +96,9 @@ This was a large financial project to capture historical stock ledgers and parti
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
+| Case Study: Analyzing Customer Churn in Excel | 2025-02 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/68c37bbee737ec14afd045ef84e2ccc25bdffd2f) | [pdf](/Certificates/202502-datacamp-analyzing-customer-churn-in-excel.pdf) |
+| Data Analysis in Excel | 2025-02 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/fb61c5e6e37f9516ca5e3b2512bed01ac4353eee) | [pdf](/Certificates/202502-datacamp-data-analysis-in-excel.pdf) |
+| Data Visualization in Excel | 2025-02 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/e989ddc337cf750cd0beea1161ba6a081431a023) | [pdf](/Certificates/202502-datacamp-data-visualization-in-excel.pdf) |
 | Data Preparation in Excel | 2025-02 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/1742bd971c9105dcbbe750aa33d54ff1ff28b745) | [pdf](/Certificates/202502-datacamp-data-preparation-in-excel.pdf) |
 | Introduction to Excel | 2025-02 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/4b5a30217c64b45610e85ea70f88b79fc3df409f) | [pdf](/Certificates/202502-datacamp-introduction-to-excel.pdf) |
 | Introduction to Data Literacy | 2024-12 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/d6cdf3fc46793f42d14a593d3817ee9b147257ab) | [pdf](/Certificates/202412-datacamp-introduction-to-data-literacy.pdf) |
