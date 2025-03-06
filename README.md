@@ -28,7 +28,7 @@ With over 20 years of experience in administrative support, data management and 
 
 ---
 
-### 2015-11 to 2019-01 | Freelance Operations and Data Specialist
+### 2015 to 2019 | Freelance Operations and Data Specialist
 - Provided remote operations and data management support to international clients in various industries including academia, e-commerce, and professional associations.
 Manage and optimize databases, streamline workflows, and automate processes to improve efficiency and accuracy.
 - Perform data analysis and reports and create customized solutions to meet client needs, such as inventory forecasting and knowledge management.
@@ -36,28 +36,28 @@ Manage and optimize databases, streamline workflows, and automate processes to i
 - Provide administrative and technical support, including document editing, transcription, and social media management, to ensure high-quality results for clients.
 
 Important projects/customers:
-#### BigSpool Inc. (2017-02 to 2019-01)
+#### BigSpool Inc. (2017 to 2019)
 This started as a small project on Upwork and very quickly developed into a full-time role with my "if I don't know, I will find out'-attitude. My role grew exponentially and responsibilities along with it. The CEO Hao Jiang wrote this [recommendation](/Other/Bigspool-Recommendation.pdf) for my time with Bigspool. These are some of my achievements:
 - Consolidated customer service operations across 7 marketplaces and 5 brands, reducing response times and costs through reusable templates and improved workflows.
 - Developed an Access database for inventory management, replacing a paid service and saving monthly subscription costs while improving forecast accuracy.
 - Managed 50+ product launches and coordinated cross-functional teams to bring 50,000+ SKUs to market on time.
 - Created a centralized knowledge management system using Notion, organized SOPs, and improved onboarding and operational consistency.
-#### Tilburg University (2015-11 to 2017-01)
+#### Tilburg University (2015 to 2017)
 This was a large financial project in two parts to capture historical stock ledgers and particularly tickled the puzzle-solving part of my brain. I am extremely proud of what I have accomplished here and, with permission, can showcase a summary of my work for [Part 1](/Other/project-tilburg-historical-data-p1.pdf)and [Part 2](/Other/project-tilburg-historical-data-p2.pdf). Highlights of my achievements are:
 - Collected and analyzed historical financial data from 18th century share ledgers and converted handwritten records into a modern, user-friendly format for analysis.
 - Identified and resolved discrepancies in merchant records, assigned unique identifiers and standardized data for over 60,000 transactions and 10,000 merchants.
 - Developed innovative solutions to handle Julian calendar dates, LSD currency conversion to decimal, and complex consortium relationships, enabling accurate historical analysis.
-#### Kim Adie (College of Animal Chiropractors) (2015-12 to 2019-01)
+#### Kim Adie (College of Animal Chiropractors) (2015 to 2019)
 - Revised and managed the member database to ensure consistency and accuracy for over 500 members.
 - Monitored and responded to member inquiries, updated the website and created engaging social media content to increase engagement.
 - Migrated organizational materials to Google Suite, redesigned learning materials and streamlined cross-country collaboration.
-### Various smaller projects (2015-11 to 2019-01)
+### Various smaller projects (2015 to 2019)
 Provided administrative support, including text entry, document editing and transcription, to ensure high quality results for clients.
 
 
 ---
 
-### 2013-08 to 2015-09 | Helpdesk Assistant
+### 2013 to 2015 | Helpdesk Assistant
 ENSafrica, Cape Town, South Africa
 - Provided help desk support by handling internal inquiries, directing employees to appropriate departments, and providing efficient solutions to technical and administrative issues.
 - Managed and updated databases to ensure accurate and up-to-date records for smooth internal operations.
@@ -67,18 +67,18 @@ ENSafrica, Cape Town, South Africa
 
 ---
 
-### 2001-09 to 2013-07 | Secretary
+### 2001 to 2013 | Secretary
 
 Provided comprehensive administrative support including managing appointment calendars, preparing documents, and maintaining filing systems. Handled client communications, answered calls, and coordinated appointments to ensure smooth office operations. Handled monthly client billing and collection of arrears.
 
 | Employer | Location | Start | End |
 | --- | --- | --- | --- |
-| ENSafrica | Sandton, South Africa | 2012-07 | 2013-07 |
-| Prof. Nic Olivier, University of Pretoria | Pretoria, South Africa | 2011-04 | 2012-06 |
-| Eversheds (formerly Routledge Modise Attorneys) | Sandton, South Africa | 2006-04 | 2010-01 |
-| Swart, Redelinghuys, Nel & Partners | Krugersdorp | 2003-02 | 2006-03 |
-| Heidtmann & Du Preez Attorneys | Randfontein | 2002-09 | 2003-02 |
-| Van Deventer & Van Niekerk | Randfontein | 2001-09 | 2002-08 |
+| ENSafrica | Sandton, South Africa | 2012 | 2013 |
+| Prof. Nic Olivier, University of Pretoria | Pretoria, South Africa | 2011 | 2012 |
+| Eversheds (formerly Routledge Modise Attorneys) | Sandton, South Africa | 2006 | 2010 |
+| Swart, Redelinghuys, Nel & Partners | Krugersdorp | 2003 | 2006 |
+| Heidtmann & Du Preez Attorneys | Randfontein | 2002 | 2003 |
+| Van Deventer & Van Niekerk | Randfontein | 2001 | 2002 |
 
 ---
 
