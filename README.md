@@ -36,18 +36,18 @@ Manage and optimize databases, streamline workflows, and automate processes to i
 - Provide administrative and technical support, including document editing, transcription, and social media management, to ensure high-quality results for clients.
 
 Important projects/customers:
-#### BigSpool Inc. (2017 to 2019)
+#### BigSpool Inc., USA (2017 to 2019)
 This started as a small project on Upwork and very quickly developed into a full-time role with my "if I don't know, I will find out'-attitude. My role grew exponentially and responsibilities along with it. The CEO Hao Jiang wrote this [recommendation](/Other/Bigspool-Recommendation.pdf) for my time with Bigspool. These are some of my achievements:
 - Consolidated customer service operations across 7 marketplaces and 5 brands, reducing response times and costs through reusable templates and improved workflows.
 - Developed an Access database for inventory management, replacing a paid service and saving monthly subscription costs while improving forecast accuracy.
 - Managed 50+ product launches and coordinated cross-functional teams to bring 50,000+ SKUs to market on time.
 - Created a centralized knowledge management system using Notion, organized SOPs, and improved onboarding and operational consistency.
-#### Tilburg University (2015 to 2017)
+#### Tilburg University, Netherlands (2015 to 2017)
 This was a large financial project in two parts to capture historical stock ledgers and particularly tickled the puzzle-solving part of my brain. I am extremely proud of what I have accomplished here and, with permission, can showcase a summary of my work for [Part 1](/Other/project-tilburg-historical-data-p1.pdf)and [Part 2](/Other/project-tilburg-historical-data-p2.pdf). Highlights of my achievements are:
 - Collected and analyzed historical financial data from 18th century share ledgers and converted handwritten records into a modern, user-friendly format for analysis.
 - Identified and resolved discrepancies in merchant records, assigned unique identifiers and standardized data for over 60,000 transactions and 10,000 merchants.
 - Developed innovative solutions to handle Julian calendar dates, LSD currency conversion to decimal, and complex consortium relationships, enabling accurate historical analysis.
-#### Kim Adie (College of Animal Chiropractors) (2015 to 2019)
+#### Kim Adie (College of Animal Chiropractors), USA & Canada (2015 to 2019)
 - Revised and managed the member database to ensure consistency and accuracy for over 500 members.
 - Monitored and responded to member inquiries, updated the website and created engaging social media content to increase engagement.
 - Migrated organizational materials to Google Suite, redesigned learning materials and streamlined cross-country collaboration.
