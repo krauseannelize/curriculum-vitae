@@ -96,6 +96,7 @@ Provided comprehensive administrative support including managing appointment cal
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
+| Data Literacy Case Study: Remote Working Analysis | 2025-05 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/c2637cfaf9eecd7d7bb8dffdd488083512cc13be) | [pdf](/Certificates/202505-datacamp-data-literacy-case-study.pdf) |
 | Forming Analytical Questions | 2025-05 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/8133a59ecb269e478d770a2524d1acf2f3653d66) | [pdf](/Certificates/202505-datacamp-forming-analytical-questions.pdf) |
 | Orientation Course | 2025-04 | Masterschool | - | [pdf](/Certificates/202504-masterschool-orientation-course.pdf) |
 | Skill Track: Excel Fundamentals | 2025-02 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/track/59cc36cf0423e9ab49318f30c13e1e388a56f332) | [pdf](/Certificates/202502-datacamp-skill-excel-fundamentals.pdf) |
