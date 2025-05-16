@@ -96,6 +96,7 @@ Provided comprehensive administrative support including managing appointment cal
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
+| Orientation Course | 2025-04 | Masterschool | - | [pdf](/Certificates/202504-masterschool-orientation-course.pdf) |
 | Skill Track: Excel Fundamentals | 2025-02 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/track/59cc36cf0423e9ab49318f30c13e1e388a56f332) | [pdf](/Certificates/202502-datacamp-skill-excel-fundamentals.pdf) |
 | Case Study: Analyzing Customer Churn in Excel | 2025-02 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/68c37bbee737ec14afd045ef84e2ccc25bdffd2f) | [pdf](/Certificates/202502-datacamp-analyzing-customer-churn-in-excel.pdf) |
 | Data Analysis in Excel | 2025-02 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/fb61c5e6e37f9516ca5e3b2512bed01ac4353eee) | [pdf](/Certificates/202502-datacamp-data-analysis-in-excel.pdf) |
