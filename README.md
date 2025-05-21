@@ -96,6 +96,11 @@ Provided comprehensive administrative support including managing appointment cal
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
+| Track: Orientation Course - Data Analytics | 2025-05 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/track/c5a30cd6772cbcd1327489b18713255d765712ee) | [pdf](/Certificates/202505-datacamp-track-orientation-data-analytics.pdf) |
+| Data Literacy Case Study: Remote Working Analysis | 2025-05 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/c2637cfaf9eecd7d7bb8dffdd488083512cc13be) | [pdf](/Certificates/202505-datacamp-data-literacy-case-study.pdf) |
+| Forming Analytical Questions | 2025-05 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/8133a59ecb269e478d770a2524d1acf2f3653d66) | [pdf](/Certificates/202505-datacamp-forming-analytical-questions.pdf) |
+| Orientation Course | 2025-04 | Masterschool | - | [pdf](/Certificates/202504-masterschool-orientation-course.pdf) |
+| Track: Excel Fundamentals | 2025-02 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/track/59cc36cf0423e9ab49318f30c13e1e388a56f332) | [pdf](/Certificates/202502-datacamp-track-excel-fundamentals.pdf) |
 | Case Study: Analyzing Customer Churn in Excel | 2025-02 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/68c37bbee737ec14afd045ef84e2ccc25bdffd2f) | [pdf](/Certificates/202502-datacamp-analyzing-customer-churn-in-excel.pdf) |
 | Data Analysis in Excel | 2025-02 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/fb61c5e6e37f9516ca5e3b2512bed01ac4353eee) | [pdf](/Certificates/202502-datacamp-data-analysis-in-excel.pdf) |
 | Data Visualization in Excel | 2025-02 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/e989ddc337cf750cd0beea1161ba6a081431a023) | [pdf](/Certificates/202502-datacamp-data-visualization-in-excel.pdf) |
@@ -104,7 +109,7 @@ Provided comprehensive administrative support including managing appointment cal
 | Introduction to Data Literacy | 2024-12 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/d6cdf3fc46793f42d14a593d3817ee9b147257ab) | [pdf](/Certificates/202412-datacamp-introduction-to-data-literacy.pdf) |
 | Communicating Data Insights | 2024-12 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/62da72a1304d19853f3b8da48a777b36330e578c) | [pdf](/Certificates/202412-datacamp-communicating-data-insights.pdf) |
 | Introduction to Data | 2024-11 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/ac105cbb32ffb65d85e2c2e56756129cefaf1fdb) | [pdf](/Certificates/202411-datacamp-introduction-to-data.pdf) |
-| Skill Track: Google Sheets Fundamentals | 2024-11 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/track/d3aeab44c5b27744247df5dde1ad58acd209c5ac) | [pdf](/Certificates/202411-datacamp-skill-google-sheets-fundamentals.pdf) |
+| Track: Google Sheets Fundamentals | 2024-11 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/track/d3aeab44c5b27744247df5dde1ad58acd209c5ac) | [pdf](/Certificates/202411-datacamp-track-google-sheets-fundamentals.pdf) |
 | Data Visualization in Google Sheets | 2024-11 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/9aa4113d45ec5883ed00b4c920f04e187a01eac5) | [pdf](/Certificates/202411-datacamp-data-visualization-in-google-sheets.pdf) |
 | Pivot Tables in Google Sheets | 2024-11 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/73de231038038ad9c42fb284da24cba6e34bde9a) | [pdf](/Certificates/202411-datacamp-pivot-tables-in-google-sheets.pdf) |
 | Intermediate Google Sheets | 2024-11 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/24339a08c4f385e6f4daede8c5841745394758b2) | [pdf](/Certificates/202411-datacamp-intermediate-google-sheets.pdf) |
