@@ -110,6 +110,7 @@ Provided comprehensive administrative support including managing appointment cal
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
+| Introduction to Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/f16a1d2c96c1c92c967280dade2a7dd74bfdecdf) | [pdf](/Certificates/202506-datacamp-introduction-to-tableau.pdf) |
 | Understanding Data Visualization | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/d7f3dafc2d104e3071913cebbce5240e5da17c5a) | [pdf](/Certificates/202506-datacamp-understanding-data-visualization.pdf) |
 | Track: Orientation Course - Data Analytics | 2025-05 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/track/c5a30cd6772cbcd1327489b18713255d765712ee) | [pdf](/Certificates/202505-datacamp-track-orientation-data-analytics.pdf) |
 | Data Literacy Case Study: Remote Working Analysis | 2025-05 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/c2637cfaf9eecd7d7bb8dffdd488083512cc13be) | [pdf](/Certificates/202505-datacamp-data-literacy-case-study.pdf) |
