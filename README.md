@@ -110,7 +110,9 @@ Provided comprehensive administrative support including managing appointment cal
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
-| Analyzing Data in Tableau | 2025-06 | DataCamp | [Cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/4a0d07388155bb834974710267f8efd80c51ef2e) | [pdf](/Certificates/202506-datacamp-analyzing-data-tableau.pdf) |
+| DA104 - Spreadsheets and Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/track/fc35a0f2f5d3eca8a04aa7f2e1b89379a1f5d204) | [pdf](/Certificates/202506-datacamp-track-spreadsheets-and-tableau.pdf) |
+| Creating Dashboards in Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/4203b947c9c46f25a30c2b3f18da211143bad34e) | [pdf](/Certificates/202506-datacamp-creating-dashboards-tableau.pdf) |
+| Analyzing Data in Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/4a0d07388155bb834974710267f8efd80c51ef2e) | [pdf](/Certificates/202506-datacamp-analyzing-data-tableau.pdf) |
 | Introduction to Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/course/f16a1d2c96c1c92c967280dade2a7dd74bfdecdf) | [pdf](/Certificates/202506-datacamp-introduction-to-tableau.pdf) |
 | Understanding Data Visualization | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/d7f3dafc2d104e3071913cebbce5240e5da17c5a) | [pdf](/Certificates/202506-datacamp-understanding-data-visualization.pdf) |
 | Track: Orientation Course - Data Analytics | 2025-05 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/track/c5a30cd6772cbcd1327489b18713255d765712ee) | [pdf](/Certificates/202505-datacamp-track-orientation-data-analytics.pdf) |
