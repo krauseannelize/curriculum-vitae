@@ -110,6 +110,7 @@ Provided comprehensive administrative support including managing appointment cal
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
+| Connecting Data in Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/0d36c22000fa3fdeabcc4d0adccfbd6086927171) | [pdf](/Certificates/202506-datacamp-connecting-data-tableau.pdf) |
 | DA104 - Spreadsheets and Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/track/fc35a0f2f5d3eca8a04aa7f2e1b89379a1f5d204) | [pdf](/Certificates/202506-datacamp-track-spreadsheets-and-tableau.pdf) |
 | Creating Dashboards in Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/4203b947c9c46f25a30c2b3f18da211143bad34e) | [pdf](/Certificates/202506-datacamp-creating-dashboards-tableau.pdf) |
 | Analyzing Data in Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/4a0d07388155bb834974710267f8efd80c51ef2e) | [pdf](/Certificates/202506-datacamp-analyzing-data-tableau.pdf) |
