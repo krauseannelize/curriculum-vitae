@@ -110,6 +110,8 @@ Provided comprehensive administrative support including managing appointment cal
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
+| Track: Tableau Fundamentals | 2025-06 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/track/a19d8ac8c0ebec4163f464ea99b4828795e2c7be) | [pdf](/Certificates/202506-datacamp-track-tableau-fundamentals.pdf) |
+| Case Study: Analyzing Customer Churn in Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/d001a0fffe1913f6f7309a240a41d88c59fcabe3) | [pdf](/Certificates/202506-datacamp-analyzing-customer-churn-in-tableau.pdf) |
 | Connecting Data in Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/0d36c22000fa3fdeabcc4d0adccfbd6086927171) | [pdf](/Certificates/202506-datacamp-connecting-data-tableau.pdf) |
 | DA104 - Spreadsheets and Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/track/fc35a0f2f5d3eca8a04aa7f2e1b89379a1f5d204) | [pdf](/Certificates/202506-datacamp-track-spreadsheets-and-tableau.pdf) |
 | Creating Dashboards in Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/4203b947c9c46f25a30c2b3f18da211143bad34e) | [pdf](/Certificates/202506-datacamp-creating-dashboards-tableau.pdf) |
