@@ -110,6 +110,7 @@ Provided comprehensive administrative support including managing appointment cal
 
 | Name | Date | Provider | Web | PDF |
 | --- | --- | --- | --- | --- |
+| Data Manipulation in SQL | 2025-08 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/295d79917c1e72a5bf66263fa6704362e563d361) | [pdf](/Certificates/202508-datacamp-sql-data-manipulation.pdf) |
 | Track: Tableau Fundamentals | 2025-06 | DataCamp | [cert](https://www.datacamp.com/statement-of-accomplishment/track/a19d8ac8c0ebec4163f464ea99b4828795e2c7be) | [pdf](/Certificates/202506-datacamp-track-tableau-fundamentals.pdf) |
 | Case Study: Analyzing Customer Churn in Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/d001a0fffe1913f6f7309a240a41d88c59fcabe3) | [pdf](/Certificates/202506-datacamp-analyzing-customer-churn-in-tableau.pdf) |
 | Connecting Data in Tableau | 2025-06 | DataCamp | [cert](https://www.datacamp.com/completed/statement-of-accomplishment/course/0d36c22000fa3fdeabcc4d0adccfbd6086927171) | [pdf](/Certificates/202506-datacamp-connecting-data-tableau.pdf) |
